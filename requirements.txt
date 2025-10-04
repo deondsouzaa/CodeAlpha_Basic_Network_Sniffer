@@ -1,1 +1,3 @@
-scapy
+# Python dependencies for Basic Network Sniffer
+# Prefer the distro package on Kali (python3-scapy). If using pip, this will work:
+scapy>=2.5.0,<3.0
