@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ## ▶️ Usage
 Run with elevated privileges so packet capture works correctly.
 ```bash
-sudo python3 sniffer.py
+sudo python3 sniff_test.py
 ```
 Example console output:
 ```
